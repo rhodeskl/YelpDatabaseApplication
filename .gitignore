@@ -1,0 +1,16 @@
+DatabaseProject/packages
+DatabaseProject/DatabaseProject/bin
+DatabaseProject/DatabaseProject/obj
+DatabaseProject/JSON Parser/bin
+DatabaseProject/JSON Parser/obj
+DatabaseProject/DatabaseProject/Properties
+DatabaseProject/JSON Parser/Properties
+DatabaseProject/JSON Parser/outfile.txt
+DatabaseProject/.vs/DatabaseProject/v14/.suo
+DatabaseProject/JSON Parser/outfile_business.txt
+DatabaseProject/JSON Parser/outfile_checkin.txt
+DatabaseProject/JSON Parser/outfile_review.txt
+DatabaseProject/JSON Parser/outfile_user.txt
+DatabaseProject/DatabaseUI/Debug
+DatabaseProject/DatabaseUI/bin
+DatabaseProject/DatabaseUI/obj

@@ -1,0 +1,7 @@
+Size of business table: 11481
+Size of category table: 33619
+Size of hours table: 80367
+Size of checkin table: 67407
+Size of hasfriends table: 1052706
+Size of review table: 416479
+Size of usertable: 192999
